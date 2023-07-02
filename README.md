@@ -15,8 +15,12 @@ Doctor Availability: Doctors can manage their appointments and cancel them if ne
 
 Technologies Used
 
-Java Spring Boot: The backend framework used to build the web application.
-MySQL: The database management system to store and retrieve data.
+- Spring Boot
+- MVC Architecture
+- Thymeleaf templating
+- JPA
+- H2 inmemory database
+- CRUD operations
 
 Screenshots
 
