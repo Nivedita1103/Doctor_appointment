@@ -17,8 +17,8 @@ MySQL: The database management system to store and retrieve data.
 
 Screenshots
 
-https://postimg.cc/SJXHYCkz
-https://postimg.cc/2VPMQyS9
+[![Whats-App-Image-2023-06-30-at-14-15-39.jpg](https://i.postimg.cc/WbSVKwyS/Whats-App-Image-2023-06-30-at-14-15-39.jpg)](https://postimg.cc/SJXHYCkz)
+[![Whats-App-Image-2023-06-30-at-14-16-28.jpg](https://i.postimg.cc/QdtDrWGD/Whats-App-Image-2023-06-30-at-14-16-28.jpg)](https://postimg.cc/2VPMQyS9)
 [![Whats-App-Image-2023-06-30-at-14-16-28.jpg](https://i.postimg.cc/QdtDrWGD/Whats-App-Image-2023-06-30-at-14-16-28.jpg)](https://postimg.cc/2VPMQyS9)
 [![Whats-App-Image-2023-06-30-at-14-19-24.jpg](https://i.postimg.cc/4xSg4Ns9/Whats-App-Image-2023-06-30-at-14-19-24.jpg)](https://postimg.cc/NKmVptys)
 
